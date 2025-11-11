@@ -32,7 +32,7 @@ Built using **Blink**, a no-code AI development platform, SMARAN provides a clea
 
 ## 🧮 Carbon Calculator Integration
 
-To comply with the **Green Mind Hackathon** sustainability requirements, SMARAN includes a **Carbon Emission Monitoring** module inspired by [Birchlogic’s Carbon Calculator Repo](https://github.com/Birchlogic/GreenMindHackathon/tree/main/Carbon-Calculator).
+To comply with the **Green Mind Hackathon** sustainability requirements, SMARAN includes a **Carbon Emission Monitoring** module .
 
 ### ⚙️ How It Works
 - The calculator measures power and energy usage during baseline (idle) and active (app-running) modes.
@@ -95,7 +95,7 @@ SMARAN/
 
 You can try the working prototype of **SMARAN** here:
 
-👉 **[SMARAN – AI Dementia Companion (Live MVP)](https://smaran-local-ai-memo-yolae6u3.sites.blink.new/?v=1762850064688&t=1762850064688)**  
+[**SMARAN – AI Dementia Companion (Live MVP)**](https://smaran-local-ai-memo-yolae6u3.sites.blink.new/?v=1762850064688&t=1762850064688)
 
 > *(Built using Blink — a no-code AI platform for rapid prototyping.)*
 
