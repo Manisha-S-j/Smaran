@@ -95,13 +95,14 @@ SMARAN/
 
 You can try the working prototype of **SMARAN** here:
 
-[SMARAN – AI Dementia Companion (Live MVP)](https://smaran-local-ai-memo-yolae6u3.sites.blink.new/?v=1762850064688&t=1762850064688)
+👉 **[SMARAN – AI Dementia Companion (Live MVP)](https://smaran-local-ai-memo-yolae6u3.sites.blink.new/?v=1762850064688&amp;t=1762850064688)**
 
 > *(Built using Blink — a no-code AI platform for rapid prototyping.)*
 
 ---
 
 *(Click above to open the Blink-hosted MVP demo)*
+
 
 
 🏁 Hackathon
