@@ -1,5 +1,12 @@
-node_modules/
+__pycache__/
+*.pyc
 venv/
 .env
-__pycache__/
+*.sqlite3
+*.db
+*.log
+.vscode/
+.idea/
 .DS_Store
+*.zip
+*.tar.gz

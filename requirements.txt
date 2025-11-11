@@ -1,0 +1,3 @@
+Flask==2.2.5
+codecarbon==1.2.2
+gunicorn==21.2.0
