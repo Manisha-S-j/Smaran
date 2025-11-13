@@ -81,6 +81,15 @@ SMARAN/
 ├── README.md                # Project overview (this file)
 └── .gitignore
 
+### ♻️ Eco-Efficiency Metrics (Monitored via CodeCarbon)
+| Metric | Value | Description |
+|--------|--------|-------------|
+| Energy Used | ~0.003 kWh/session | Estimated by CodeCarbon |
+| CO₂ Emission | ~1.2 gCO₂eq/session | Significantly lower than cloud-based inference |
+| Model Size | 4.8 MB | Optimized TensorFlow Lite model |
+| CPU Utilization | ~45% | Efficient resource usage during offline inference |
+
+
 🌱 Sustainability Highlights
 
 ⚡ Local AI Inference – 70% lower network energy use
